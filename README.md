@@ -2,7 +2,7 @@
 Esquema de un origin:
 - data/
     - origins/
-        - origin_layer/
+        - origin_layers/
             - origin.json
     - <origin_name>/
         - origins/
@@ -11,5 +11,4 @@ Esquema de un origin:
             - <custom_power1>.json
             - <custom_power2>.json
             - ...
-
 - pack.mcmeta

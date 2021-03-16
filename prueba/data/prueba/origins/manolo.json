@@ -1,12 +1,11 @@
 {
 	"powers": [
         "origins:aerial_combatant",
-        "origins:flame_particles",
-        "preueba:water_legs"
+        "origins:flame_particles"
 	],
 	"icon": "minecraft:slime_ball",
-	"order": 4,
-	"impact": 1,
+	"order": 1,
+	"impact": 3,
     "name": "Manolo",
     "description": "Manolo es el mejor"
 }
