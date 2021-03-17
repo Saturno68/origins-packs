@@ -1,0 +1,11 @@
+{
+	"powers": [
+        "origins:aerial_combatant",
+        "origins:flame_particles"
+	],
+	"icon": "minecraft:snow_ball",
+	"order": 1,
+	"impact": 3,
+    "name": "Drakanid",
+    "description": "Nacidos de los dragones, tienen poderes naturales de hielo, tienen la habilidad de volar, y una piel de escamas duras, pero cuidado con el calor, te puede ayudar mucho"
+}
